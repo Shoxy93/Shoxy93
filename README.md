@@ -1,5 +1,5 @@
 <div align="center">  
-<h3>Hi there! 👋🤓<br>My name is Miodrag Radivojević<br>I'm back-end software engineer<br>Technologies I work with: </h3>
+<h3>Hi! 👋<br>My name is Miodrag Radivojević<br>I'm back-end software engineer<br>Technologies I work with: </h3>
 <img align="" src ="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
 <img align="" src ="https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
 <img align="" src ="https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a"/>
